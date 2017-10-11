@@ -8,3 +8,7 @@ Sketch designs of future projects will also be located here.
 I'm currently working on a "looking for group" style site to help gamers find other gamers to play together. Project/site name
 has yet to be determined
 
+### In Progress
+
+* Finish Screen desgins in Sketch
+* Start HTML file
