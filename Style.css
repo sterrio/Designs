@@ -1,3 +1,11 @@
+*{
+/* Reset everything to 0 */
+
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
 body {
   background-color: #e0e0e0;
 }
@@ -6,4 +14,19 @@ header {
   width: 100%;
   height: 80px;
   background-color: #fff;
+}
+
+.LFG-logo {
+  margin-top: 16px;
+  margin-left: 20px;
+}
+
+.User-welcome{
+  font-size: 25px;
+  font-weight: 700;
+  margin-top: 35px;
+  margin-right:200px;
+  float: right;
+
+
 }
