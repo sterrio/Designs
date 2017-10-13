@@ -22,11 +22,35 @@ header {
 }
 
 .User-welcome{
-  font-size: 25px;
-  font-weight: 700;
-  margin-top: 35px;
-  margin-right:200px;
+  font-size: 20px;
+  /*<!--font-weight: 700; changes to bolden text*/
+  margin-top: 30px;
+  margin-right:100px;
   float: right;
+}
 
+.User-pic{
+  float: right;
+  margin-right: -200px;
+  margin-top: 13px;
+}
+
+.platform {
+
+  font-weight: 500;
+  margin-left: 110;
+  margin-top: 110;
+  font-size: 30;
+}
+
+.Overwatch {
+  margin-top: 50px;
+  margin-left: 20px;
+
+}
+.OWlogo{
+
+  margin-top: 50px;
+  margin-left: 20px;
 
 }
