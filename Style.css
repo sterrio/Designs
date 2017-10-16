@@ -61,9 +61,26 @@ margin-left: 150px;
 font-size: 16;
 }
 
-.plat_options{
+.plat_optionsx{
   font-family: 'Avenir';
   font-weight: bolder;
   margin-left: 275px;
-  margin-top: -25px;
+  margin-top: -28px;
+  font-size: 20;
+}
+
+.plat_optionsPS{
+  font-family: 'Avenir';
+  font-weight: bolder;
+  margin-left: 395px;
+  margin-top: -27px;
+  font-size: 20;
+}
+
+.plat_optionsPC{
+  font-family: 'Avenir';
+  font-weight: bolder;
+  margin-left: 560px;
+  margin-top: -28px;
+  font-size: 20;
 }
